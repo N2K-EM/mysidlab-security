@@ -6,3 +6,5 @@ users:
     aws_groups: "losangeles, sanfrancisco, napa"
   - name: evan-user3
     aws_groups: "palmsprings, indio, sandiego"
+  - name: evan-user4
+    aws_groups: "palmsprings, indio, sandiego, fakegroup"
